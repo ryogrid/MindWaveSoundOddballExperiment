@@ -1,0 +1,4 @@
+total experiment time is 360sec.
+1000Hz low and 2000Hz high sound.
+sound is played 800ms at a time.
+interval between sounds is 800ms too.
